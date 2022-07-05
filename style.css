@@ -1,3 +1,48 @@
 body{
     font-family: 'Poppins',sans-serif;
+    margin: 0;
+}
+.jm_pic
+{
+    width: 80%; 
+}
+.per
+{
+    font-size:16px ;
+    text-align: justify;
+}
+.container
+{
+    display:flex;
+    margin-bottom: 100px;
+}
+.container1
+{
+   
+
+    background-image: url("images/top-banner.png");
+    background-repeat:no-repeat ;
+}
+.first_part
+{
+    width: 50%;
+    padding-left:100px;
+}
+.second_part
+{
+    width: 50%;
+    padding-left:80px;
+}
+.btn
+{
+    border-radius: 5px;
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 40px;
+}
+.dream_big
+{
+    background-image: url("images/dream-bg.png");
+    background-position: right;
+    background-repeat: no-repeat;
 }

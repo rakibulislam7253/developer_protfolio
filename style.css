@@ -9,7 +9,7 @@ body{
 .per
 {
     font-size:16px ;
-    text-align: justify;
+  
 }
 .container
 {
@@ -19,7 +19,7 @@ body{
 .container1
 {
    
-
+  
     background-image: url("images/top-banner.png");
     background-repeat:no-repeat ;
 }
@@ -39,10 +39,44 @@ body{
     text-decoration: none;
     background-color: orange;
     padding: 10px 40px;
+    color: white;
 }
 .dream_big
 {
     background-image: url("images/dream-bg.png");
     background-position: right;
     background-repeat: no-repeat;
+}
+.part1
+{
+    margin-right: 18px;
+    padding-right: 100px;
+}
+
+.div1
+{
+    
+    box-shadow: 5px 7px 40px grey;
+    width: 40%;
+    height: 300px;
+    margin: 50px;
+    margin-top: 0px;
+    padding: 30px;
+    border-left: 7px solid tomato;
+}
+.div2
+{
+    box-shadow: 5px 7px 40px grey;
+    width: 40%;
+    height: 300px;
+    margin: 50px;
+    margin-top: 0px;
+    padding: 30px;
+    border-left: 7px solid blue;
+}
+.last
+{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
 }
